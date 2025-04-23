@@ -9,13 +9,15 @@ Um simples projetinho de aniversario que eu fiz usando html, css e js para desej
 - [@JoaoPedroDiasCoelho](https://www.github.com/JoaoPedroDiasCoelho)
 
 
+## Stack utilizada
+
+**Front-end:** HTML, CSS e Javascript
+
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Stack utilizada
-
-**Front-end:** HTML, CSS e Javascript
 
 
